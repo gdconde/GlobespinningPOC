@@ -1,0 +1,27 @@
+{
+  "name": "globespinning-location-plugin",
+  "version": "0.0.1",
+  "description": "Globespinning Location Plugin",
+  "cordova": {
+    "id": "globespinning-location-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "sensors",
+    "location",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=8.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
